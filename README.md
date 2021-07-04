@@ -51,16 +51,16 @@ At this stage, 5 models were used for analysis:
 XGBoost had a MAPE of 11.59%.
 
 	Model Name		MAE		MAPE		RMSE
-0	XGBoost Regressor	772.459114	0.115992	1109.989069
+	XGBoost Regressor	772.459114	0.115992	1109.989069
 
 # 7. Business Results
 
 Below is the six-week forecast.
 
 	Scenario	Values
-0	predictions	R$277,437,632.00
-1	worst_scenario	R$276,572,719.87
-2	best_scenario	R$278,302,519.21
+	predictions	R$277,437,632.00
+	worst_scenario	R$276,572,719.87
+	best_scenario	R$278,302,519.21
 
 # 8. Conclusions
 
